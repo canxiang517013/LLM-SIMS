@@ -309,24 +309,9 @@ python src/api/main.py
 streamlit run frontend/app.py --logger.level=debug
 ```
 
-## 🤝 贡献指南
-
-1. Fork项目仓库
-2. 创建功能分支 (`git checkout -b feature/AmazingFeature`)
-3. 提交更改 (`git commit -m 'Add some AmazingFeature'`)
-4. 推送到分支 (`git push origin feature/AmazingFeature`)
-5. 创建Pull Request
-
 ## 📄 许可证
 
 本项目采用MIT许可证 - 查看 [LICENSE](LICENSE) 文件了解详情
-
-## 📞 联系方式
-
-如有问题或建议，请联系：
-- 项目维护者: [Your Name]
-- 邮箱: [your.email@example.com]
-- 项目地址: [repository-url]
 
 ## 🙏 致谢
 
