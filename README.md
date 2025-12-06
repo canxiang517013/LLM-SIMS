@@ -37,7 +37,6 @@
 
 ```
 deepstudy/
-├── .env                    # 环境配置文件
 ├── .env.example           # 环境配置模板
 ├── requirements.txt       # Python依赖包
 ├── init_database.py      # 数据库初始化脚本
